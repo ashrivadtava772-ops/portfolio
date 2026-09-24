@@ -1,16 +1,49 @@
-# React + Vite
+# Anshika Shrivastava | Full Stack Web Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio showcasing my projects, technical skills, internship experience, and web development work.
 
-Currently, two official plugins are available:
+## 🌐 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[View Portfolio](https://portfolio-8ofbv95js-anshika-portfolio.vercel.app/)**
 
-## React Compiler
+## 👩‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm Anshika Shrivastava, a BCA student and Full Stack Web Developer focused on building responsive and practical web applications.
 
-## Expanding the ESLint configuration
+I work primarily with the MERN stack and enjoy working across frontend interfaces, backend APIs, databases, and AI integrations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript, React.js
+* **Backend:** Node.js, Express.js, FastAPI
+* **Database:** MongoDB, Mongoose, SQL
+* **AI & APIs:** Gemini API, REST APIs, WebSockets
+* **Tools:** Git, GitHub, Vite
+
+## 🚀 Featured Projects
+
+### AI Resume Builder
+
+Full-stack AI-powered resume platform built with React, Node.js, Express.js, MongoDB, and Gemini API.
+
+### AI Vision Assistant
+
+Real-time computer vision application using React, FastAPI, Python, YOLO11, WebSockets, and OpenCV.
+
+### MP Tourism
+
+Dynamic tourism website built using HTML, CSS, JavaScript, PHP, and MySQL with CRUD functionality.
+
+## 💼 Experience
+
+**Full Stack Web Development Intern**
+Kommonify Ventures Pvt. Ltd.
+June 15 – July 15, 2026
+
+Independently developed an AI-powered Resume Builder covering frontend development, backend APIs, authentication, database operations, AI integration, and PDF generation.
+
+## 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/anshika-shrivastava-58b529351
+* **GitHub:** https://github.com/ashrivadtava772-ops
+* **Portfolio:** https://portfolio-8ofbv95js-anshika-portfolio.vercel.app/
